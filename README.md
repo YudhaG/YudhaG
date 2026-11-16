@@ -1,6 +1,6 @@
 ### Hi, I'm Yudhajit Ghosh
 
-Electronics and Communication engineer (B.Tech, Biomedical Engineering specialization, VIT Vellore) focused on **VLSI Design Verification**.
+Electronics and Communication engineer (B.Tech, Electronics & Communication Engineering, VIT Vellore) focused on **VLSI Design Verification**.
 
 I build self-checking, constrained-random testbenches, measure them with functional coverage, and prove they catch real bugs with mutation testing, all running in CI on every push.
 
